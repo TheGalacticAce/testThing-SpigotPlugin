@@ -1,0 +1,11 @@
+name: TestThing
+version: ${project.version}
+main: me.thegalacticace.testthing.Main
+api-version: 1.16
+authors: [ TheGalacticAce ]
+description: DOOM.
+
+commands:
+  hello:
+    description: HELLO COMMAND
+    aliases: hi
